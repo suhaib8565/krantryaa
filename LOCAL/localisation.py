@@ -5,9 +5,9 @@ START_TEXT = "Send me any file to begin."
 
 FORCE_SUB_TEXT = "In order to use this bot, you've to join my parent channel."
 
-CHANNEL_LINK = "https://t.me/Compressed_lectures"
+CHANNEL_LINK = "https://t.me/kashir_bots"
 
-SUPPORT_LINK = "https://t.me/aajaoaapbe"
+SUPPORT_LINK = "https://t.me/Dsrs_Group"
 
 info_text = "This bot is developed by @MWHUOO_AM_I\n\nWritten in python library TELETHON.\n\nBot by : @WHUOO_AM_I\nSupport : @WHUOO_AM_I\n\nV1.4"   
 
