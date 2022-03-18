@@ -27,7 +27,7 @@ help_text = """**v1.4**
 
 •`Trim` - cut your videos"""
 
-NTHING_text  = "**love you**"
+source_text  = "**Deploy your own bo**"
 
 DEV = "https://t.me/WHUOO_AM_I"
 
